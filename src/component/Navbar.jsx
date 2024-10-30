@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import logo from '../images/logo.svg'
+import logo from '../images/Logo.svg'
 import menu from '../icon/Menu.svg'
 import cross from '../icon/X.svg'
 import user from '../icon/account_circle.svg'
